@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+Computer Science student at the University of Brasília, interested in software development, software architecture and language paradigms.
 
 <!--
 **gmalme/gmalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
