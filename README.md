@@ -4,11 +4,10 @@ Computer Science student at the University of Brasília, interested in software 
 
 ### Github Stats
 
-
 <div align="center">
   <a href="https://github.com/gmalme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmalme&layout=compact&theme=radical&include_all_commits=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmalme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmalme&layout=compact&langs_count=10&theme=radical&include_all_commits=true"/>
 </div>
 
 <!--
